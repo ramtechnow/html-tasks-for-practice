@@ -1,0 +1,31 @@
+.contionar{
+    width:600px;
+    height: 450px;
+    background-color: pink;
+    margin:auto;
+    padding: 40px;
+}
+.c1{
+    width:600px;
+    height: 450px;
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin:0px;
+}
+.n1{
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin:0px;
+}
+.c2{
+    width: 200px;
+    height: 50px;
+    float: left;
+}
