@@ -6,11 +6,12 @@
     padding: 40px;
 }
 .c1{
-    width:600px;
-    height: 450px;
+    width:60%;
+    height: 95%;
     background-color: white;
     text-align: center;
     box-sizing: border-box;
+    float: left;
 }
 .img1{
     width: 300px;
@@ -20,12 +21,25 @@
 }
 .n1{
     font-size: 20px;
-    width: 200px;
+    width: 350px;
     height: 50px;
     margin:0px;
-}
-.c2{
-    width: 200px;
-    height: 50px;
+    padding: 5px;
+    text-align: left;
     float: left;
 }
+.pr{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    float: left;
+    margin: 0px;
+    border: 2px solid black;
+}
+.right {
+    width:40%;
+    height:95%;
+    background-color:gray;
+    float:left;
+    text-align:center;
+    }
