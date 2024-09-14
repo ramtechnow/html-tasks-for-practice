@@ -1,0 +1,43 @@
+.contionar{
+    width: 400px;
+    height: 550px;
+    background-color: skyblue;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+    padding-left: 70px;
+}
+.top{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    background-color:pink;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 5px;
+}
+h1{
+   font-size: 25px;
+   padding-left: 60px;
+}
+h2{
+    font-size: 20px;
+    color: white;
+    padding-left: 20px;
+}
+h3{
+    font-size: 20px;
+    padding-left: 20px;
+}
+i{
+    margin:10px;
+}
