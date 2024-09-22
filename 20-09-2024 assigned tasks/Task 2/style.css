@@ -1,0 +1,46 @@
+body{
+    background-image: url(./keyboard.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.box1{
+    width: 50%;
+    height: 50%;
+    float: left;
+    padding-bottom: 20px;
+}
+.box2{
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+i{
+    float: left;
+    width: 20px;
+    font-size: 50px;
+}
+p{
+    width: 500px;
+    float: left;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-top: 20px;
+    margin: 0px;
+}
+h4,h3{
+    float: left;
+    width: 500px;
+    padding-left: 40px;
+    font-size: 20px;
+    margin: 0px;
+}
+h3{
+    padding-top: 20px;
+    font-size: 25px;
+}
